@@ -1,0 +1,6 @@
+[package]
+name = "netcheck"
+version = "0.1.0"
+authors = ["Kyle Isom <kyle@imap.cc>"]
+
+[dependencies]
